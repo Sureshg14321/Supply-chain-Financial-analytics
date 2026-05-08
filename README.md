@@ -142,9 +142,12 @@ This dashboard provides a comprehensive view of business operations, helping sta
 
 ## 📷 Screenshots
 
-<img width="1366" height="768" alt="Index" src="https://github.com/user-attachments/assets/da0d8a90-900a-43e9-b51b-528bed9086ed" />
+<img width="1366" height="768" alt="index" src="https://github.com/user-attachments/assets/04e77312-6e6c-4b4f-9e4f-645a3536e05f" />
 
-<img width="1366" height="768" alt="Executive overview" src="https://github.com/user-attachments/assets/ab998a98-96ac-44fd-82ee-7624adcfd302" />
+
+<img width="1366" height="768" alt="overview" src="https://github.com/user-attachments/assets/783b036f-5350-4a97-85f8-63fb3d0eb28d" />
+
+
 
 
  
